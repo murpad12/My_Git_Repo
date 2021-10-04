@@ -6,5 +6,5 @@ with open("C:\\Comfy\\Technical\\Python\\Sample Python Code\\Generate Fibonacci 
 
 from collections import Counter
 counts = Counter(words)
-top5 = counts.most_common(5)
-print(top5)
+top3 = counts.most_common(3)
+print(top3)
