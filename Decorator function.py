@@ -1,4 +1,5 @@
 ## Usage of Decorators
+## Sample Decorator function
 
 # Decorator Code Segment Begin
 def new_decorator_code(original_func):
